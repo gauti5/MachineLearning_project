@@ -1,0 +1,11 @@
+End to End Machine learning Project : 
+
+Steps : 
+1.create a folder and copy the path
+2.open anaconda prompt and paste the path as example : (cd path )
+   a)C:
+   b)code . ( It will open the vs code )
+3.open the new terminal and Create the enviornment in vs code (conda create -p venv python==3.11 -y)
+4.It will create the enviornment ( we can see venv in the left hand side in interface)
+5.select cmd after that activate the conda ( conda activate venv/)
+6.open the github and create the reprository
